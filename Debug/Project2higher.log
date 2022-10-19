@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\suneweikai\source\repos\Project2higher\Project2higher\Source.cpp(166): warning C4715: 'detectnumber': 不是所有控制路徑都傳回值
+C:\Users\suneweikai\source\repos\Project2higher\Project2higher\Source.cpp(42): warning C4715: 'change': 不是所有控制路徑都傳回值
+C:\Users\suneweikai\source\repos\Project2higher\Project2higher\Source.cpp(35): warning C4715: 'yesorno': 不是所有控制路徑都傳回值
+  Project2higher.vcxproj -> C:\Users\suneweikai\source\repos\Project2higher\Debug\Project2higher.exe
